@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Gino</h1>
 
-<p align="center"><b>Gino Osahon considers himself first to be a Developer/Startup Evangelist, he is very passionate about Technology and how it can be leveraged to affect his community positively. Gino is also a software developer, focused on developing for the Java/Spring Boot and Android Platform.</b></p>
+<p align="center"><b>I consider myself first to be a developer/startup Evangelist, I'm passionate about Technology and how it can be leveraged to affect communities positively. I'm also a software developer, focused on developing for the Java/Spring Boot and Android Platform.</b></p>
 
 - 🔭 I’m currently a Java/SpringBoot developer
 
