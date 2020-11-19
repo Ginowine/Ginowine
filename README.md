@@ -1,15 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Gino</h1>
 
-<p align="center"><b>I consider myself first to be a developer/startup Evangelist, I'm passionate about Technology and how it can be leveraged to affect communities positively. I'm also a software developer, focused on developing for the Java/Spring Boot and Android Platform.</b></p>
-
-- 🔭 I’m currently a Java/SpringBoot developer
+<p align="center"><b>I consider myself first to be a developer/startup Evangelist, I'm passionate about Technology and how it can be leveraged to affect communities positively. I'm also a software developer, focused on developing for the Java/Spring Boot and Android Platforms.</b></p>
 
 - 🌱 I sometimes write tech articles on https://medium.com/@ginowine1
-
 - 👯 Written some basic java articles https://studyjavaprogramming.blogspot.com/
-
 - 📫 Reaach me on gino.osahon@gmail.com
-
 - 🤔 Find out about my job experiences https://www.linkedin.com/in/osahon-gino-ediagbonya-06508078/
 
 
@@ -19,9 +14,30 @@
 
 - [Android Firebase Authentication with Google SignIn](https://android.jlelse.eu/android-firebase-authentication-with-google-signin-3f878d9b7553)
 
-#### Currently working..
+#### Technologies and Tools
+<p>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src ="https://img.shields.io/badge/android-%2307405e.svg?&style=for-the-badge&logo=android&logoColor=white"/>
+<img src ="https://img.shields.io/badge/springboot-%2307405e.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src ="https://img.shields.io/badge/developer evangelist-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
+<img src ="https://img.shields.io/badge/startup evangelist-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
+<img src ="https://img.shields.io/badge/tech community builder-%2307405e.svg?&style=for-the-badge&logo=community&logoColor=white"/>
+<img src ="https://img.shields.io/badge/hub management-%2307405e.svg?&style=for-the-badge&logo=community&logoColor=white"/>
+</p>
 
-- [Ken Saro-Wiwa Innovation Hub](https://www.ksinnovationhub.com/)
+#### Currently working at:
+
+- [Hub Manager @ Ken Saro-Wiwa Innovation Hub](https://www.ksinnovationhub.com/)
 
 #### Volunteer Experience
 
