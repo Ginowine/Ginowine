@@ -1,3 +1,5 @@
+![profile](https://user-images.githubusercontent.com/6759031/99658318-a006ec00-2a5f-11eb-92e3-cc12faf14dc6.jpg)
+
 <h1 align="center">Hi there 👋, I'm Gino</h1>
 
 <p align="center"><b>I consider myself first to be a developer/startup Evangelist, I'm passionate about Technology and how it can be leveraged to affect communities positively. I'm also a software developer, focused on developing for the Java/Spring Boot and Android Platforms.</b></p>
