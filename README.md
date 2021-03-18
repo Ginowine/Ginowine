@@ -44,6 +44,7 @@
 #### Currently working at:
 
 - [Hub Manager @ Ken Saro-Wiwa Innovation Hub](https://www.ksinnovationhub.com/)
+- [Java/Spring Boot Developer @ Dewbicon Technologies]()
 
 
 #### Volunteer Experience
