@@ -55,6 +55,8 @@
 
 - [Co-organizer, All University Tech Community](https://twitter.com/AutcNigeria)
 
+- [Co-lead, Oracle Java User Group Port Harcourt](https://www.facebook.com/Java-User-Group-Port-Harcourt-1436358619990281)
+
 <!--
 **Ginowine/Ginowine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
