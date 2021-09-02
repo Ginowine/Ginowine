@@ -15,6 +15,8 @@ Gino is considered a key stakeholder in the tech ecosystem in his region. He act
 
 #### Some blog posts
 
+- [Basic Cryptographic Concepts In Blockchain Development](https://medium.com/@ginowine1/basic-cryptographic-concepts-in-blockchain-development-8d22e2f50a93)
+
 - [Consuming REST API using Retrofit Library in Android](https://android.jlelse.eu/consuming-rest-api-using-retrofit-library-in-android-ed47aef01ecb)
 
 - [Android Firebase Authentication with Google SignIn](https://android.jlelse.eu/android-firebase-authentication-with-google-signin-3f878d9b7553)
@@ -46,7 +48,7 @@ Gino is considered a key stakeholder in the tech ecosystem in his region. He act
 #### Currently working at:
 
 - [Hub Manager @ Ken Saro-Wiwa Innovation Hub](https://www.ksinnovationhub.com/)
-- [Java/Spring Boot Developer @ Dewbicon Technologies]()
+- [Developer Advocate @ African Blockchain Center for Developers]()
 
 
 #### Volunteer Experience
