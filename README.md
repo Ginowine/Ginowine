@@ -53,7 +53,7 @@ Gino is considered a key stakeholder in the tech ecosystem in his region. He act
 
 #### Volunteer Experience
 
-- [Founder GDG Port Harcourt](https://gdg.community.dev/gdg-port-harcourt/)
+- [Founder/Community Manager, GDG Port Harcourt](https://gdg.community.dev/gdg-port-harcourt/)
 
 - [Community Manager, GDG Cloud Port Harcourt](https://gdg.community.dev/gdg-cloud-port-harcourt/)
 
