@@ -48,7 +48,7 @@ Gino is considered a key stakeholder in the tech ecosystem in his region. He act
 #### Currently working at:
 
 - [Hub Manager @ Ken Saro-Wiwa Innovation Hub](https://www.ksinnovationhub.com/)
-- [Developer Advocate @ African Blockchain Center for Developers]()
+- [Developer Advocate @ African Blockchain Center for Developers](https://www.abcdevs.com/)
 
 
 #### Volunteer Experience
