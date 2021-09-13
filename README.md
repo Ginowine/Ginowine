@@ -25,6 +25,9 @@ Gino is considered a key stakeholder in the tech ecosystem in his region. He act
 #### Technologies and Tools
 
 <p>
+<img src ="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Solidity-3C3C3D?style=for-the-badge&logo=Solidity&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Smart Contract-3C3C3D?style=for-the-badge&logo=Smart Contract&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
@@ -42,10 +45,6 @@ Gino is considered a key stakeholder in the tech ecosystem in his region. He act
 <img src ="https://img.shields.io/badge/startup evangelist-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
 <img src ="https://img.shields.io/badge/tech community builder-%2307405e.svg?&style=for-the-badge&logo=community&logoColor=white"/>
 <img src ="https://img.shields.io/badge/hub management-%2307405e.svg?&style=for-the-badge&logo=community&logoColor=white"/>
-<img src ="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
-<img src ="https://img.shields.io/badge/Solidity-3C3C3D?style=for-the-badge&logo=Solidity&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/SmartContract-3C3C3D?style=for-the-badge&logo=SmartContract&logoColor=white"/>
-  
 </p>
 
 
