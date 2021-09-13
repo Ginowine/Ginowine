@@ -42,6 +42,8 @@ Gino is considered a key stakeholder in the tech ecosystem in his region. He act
 <img src ="https://img.shields.io/badge/startup evangelist-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
 <img src ="https://img.shields.io/badge/tech community builder-%2307405e.svg?&style=for-the-badge&logo=community&logoColor=white"/>
 <img src ="https://img.shields.io/badge/hub management-%2307405e.svg?&style=for-the-badge&logo=community&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
+  
 </p>
 
 
