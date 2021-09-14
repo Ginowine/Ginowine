@@ -4,7 +4,7 @@
 
 <p align="center"><b>Gino Osahon is a seasoned software engineer, with over 7 years of experience in building and managing developer and startup communities. Gino is passionate about technology and how it can be leveraged to solve challenges in his community. He has worked with international communities like Google Developer Group, Facebook DevC, Oracle Java User Group, Ken Saro-Wiwa Innovation Hub to plan, design, budget, implement, and report developer and startup activities.
 
-Gino is considered a key stakeholder in the tech ecosystem in his region. He acts as a developer and startup advocate, where he tries to provide resources, opportunities, mentorship for developers and startup founders. Gino is currently a blockchain developer enthusiast, he writes technical contents and is looking to leverage the opportunities presented by the blockchain technology to solve challenges in Africa. Gino builds softwares using Java/Spring Boot for backend, Solidity and Haskell for decentralized applications (DApp).</b></p>
+Gino is considered a key stakeholder in the tech ecosystem in his region. He acts as a developer and startup advocate, where he tries to provide resources, opportunities, mentorship for developers and startup founders. Gino is currently a blockchain developer enthusiast, he writes technical contents and is looking to leverage the opportunities presented by the blockchain technology to solve challenges in Africa. Gino builds softwares using Java/Spring Boot for backend, Solidity for decentralized applications (DApp), very interested in Haskell.</b></p>
 
 
 - 🌱 I sometimes write tech articles on https://medium.com/@ginowine1
