@@ -1,6 +1,5 @@
 ![30 Real Examples Of Blockchain Technology In Practice (1)](https://user-images.githubusercontent.com/6759031/140734194-2f2f30a0-d311-44e5-872d-10657f9c82c7.png)
 
-
 <h1 align="center">Hi there 👋, I'm Gino</h1>
 
 <p align="center"><b>Gino Osahon is a seasoned software engineer, with over 7 years of experience in building and managing developer and startup communities. Gino is passionate about technology and how it can be leveraged to solve challenges in his community. He has worked with international communities like Google Developer Group, Facebook DevC, Oracle Java User Group, Ken Saro-Wiwa Innovation Hub to plan, design, budget, implement, and report developer and startup activities.
