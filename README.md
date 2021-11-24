@@ -50,15 +50,16 @@ Gino is considered a key stakeholder in the tech ecosystem in his region. He act
 
 #### Currently working at:
 
-- [Hub Manager @ Ken Saro-Wiwa Innovation Hub](https://www.ksinnovationhub.com/)
-- [Developer Advocate @ African Blockchain Center for Developers](https://www.abcdevs.com/)
+- [Developer Advocate @ IOV Labs](https://iovlabs.org/)
+- [Advisory Board Member @ African Blockchain Center for Developers](https://www.abcdevs.com/)
+- [Ex Hub Manager @ Ken Saro-Wiwa Innovation Hub](https://www.ksinnovationhub.com/)
 
 
 #### Volunteer Experience
 
-- [Founder/Community Manager, GDG Port Harcourt](https://gdg.community.dev/gdg-port-harcourt/)
+- [Founder/Developer Advocate, GDG Port Harcourt](https://gdg.community.dev/gdg-port-harcourt/)
 
-- [Community Manager, GDG Cloud Port Harcourt](https://gdg.community.dev/gdg-cloud-port-harcourt/)
+- [Developer Advocate, GDG Cloud Port Harcourt](https://gdg.community.dev/gdg-cloud-port-harcourt/)
 
 - [Co-organizer, All University Tech Community](https://twitter.com/AutcNigeria)
 
