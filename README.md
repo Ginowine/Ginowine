@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi there 👋, I'm Gino</h1>
 
-<p align="center"><b>Gino Osahon is a seasoned software engineer, with over 7 years of experience in building and managing developer and startup communities. Gino is passionate about technology and how it can be leveraged to solve challenges in his community. He has worked with international communities like Google Developer Group, Facebook DevC, Oracle Java User Group, Ken Saro-Wiwa Innovation Hub to plan, design, budget, implement, and report developer and startup activities.
+<p align="center"><b>Gino is very passionate about youth empowerment, and skills acquisition. He has over 7 years experience designing, planning, implementing, monitoring, reporting activities and projects for developers, designers, and startups. 
 
-Gino is considered a key stakeholder in the tech ecosystem in his region. He acts as a developer and startup advocate, where he tries to provide resources, opportunities, mentorship for developers and startup founders. Gino is currently a blockchain developer enthusiast, he writes technical contents and is looking to leverage the opportunities presented by the blockchain technology to solve challenges in Africa. Gino builds softwares using Java/Spring Boot for backend, Solidity for decentralized applications (DApp), and very interested in Haskell.</b></p>
+Gino works as a Developer Advocate for IOV Labs, where he will be working with the Developer Experience team to push for the adoption of IOV Labs platform. </b></p>
 
 
 - 🌱 I sometimes write tech articles on https://medium.com/@ginowine1
