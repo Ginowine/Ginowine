@@ -7,19 +7,7 @@
 Gino works as a Developer Advocate for IOV Labs, where he will be working with the Developer Experience team to push for the adoption of IOV Labs platforms. </b></p>
 
 
-- 🌱 I sometimes write tech articles on https://medium.com/@ginowine1
-- 👯 Written some basic java articles https://studyjavaprogramming.blogspot.com/
-- 📫 Reaach me on gino.osahon@gmail.com
 - 🤔 Find out about my job experiences https://www.linkedin.com/in/osahon-gino-ediagbonya-06508078/
-
-
-#### Some blog posts
-
-- [Basic Cryptographic Concepts In Blockchain Development](https://medium.com/@ginowine1/basic-cryptographic-concepts-in-blockchain-development-8d22e2f50a93)
-
-- [Consuming REST API using Retrofit Library in Android](https://android.jlelse.eu/consuming-rest-api-using-retrofit-library-in-android-ed47aef01ecb)
-
-- [Android Firebase Authentication with Google SignIn](https://android.jlelse.eu/android-firebase-authentication-with-google-signin-3f878d9b7553)
 
 
 #### Technologies and Tools
@@ -37,14 +25,10 @@ Gino works as a Developer Advocate for IOV Labs, where he will be working with t
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src ="https://img.shields.io/badge/android-%2307405e.svg?&style=for-the-badge&logo=android&logoColor=white"/>
 <img src ="https://img.shields.io/badge/springboot-%2307405e.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src ="https://img.shields.io/badge/developer evangelist-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
-<img src ="https://img.shields.io/badge/startup evangelist-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
-<img src ="https://img.shields.io/badge/tech community builder-%2307405e.svg?&style=for-the-badge&logo=community&logoColor=white"/>
-<img src ="https://img.shields.io/badge/hub management-%2307405e.svg?&style=for-the-badge&logo=community&logoColor=white"/>
+<img src ="https://img.shields.io/badge/developer advocate-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
+<img src ="https://img.shields.io/badge/startup advocate-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
 </p>
 
 
