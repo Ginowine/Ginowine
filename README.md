@@ -50,8 +50,6 @@ Gino works as a Developer Advocate for IOV Labs, where he will be working with t
 - [Co-lead, Oracle Java User Group Port Harcourt](https://www.facebook.com/Java-User-Group-Port-Harcourt-1436358619990281)
 
 
-@OSSDAO-ORG•AIRDROP- 0xfd446002b2979559ef4Cd06e5DCC84bbCC6b49D3 
-
 <!--
 **Ginowine/Ginowine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
