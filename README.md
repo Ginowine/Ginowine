@@ -4,7 +4,7 @@
 
 <p align="center"><b>Gino is very passionate about youth empowerment, and skills acquisition. He has over 7 years experience designing, planning, implementing, monitoring, reporting activities and projects for developers, designers, and startups. 
 
-Gino works as a Developer Advocate for IOV Labs, where he will be working with the Developer Experience team to push for the adoption of IOV Labs platforms. </b></p>
+Gino has interesting experience in technical writing, community management, public speaking and software engineering </b></p>
 
 
 - 🤔 Find out about my job experiences https://www.linkedin.com/in/osahon-gino-ediagbonya-06508078/
