@@ -9,7 +9,7 @@
     </a>
   </div>
 </div>
-
+---
 <h1 align="center">Hi there 👋, I'm Gino</h1>
 
 <p align="center">Gino is a seasoned Developer and Startup Advocate/Relations Engineer, with over 8 years of experience in planning, designing, budgeting, implementing, monitoring, and reporting on developer and startup projects/activities. Gino is passionate about technology (Software Engineering/Community) and how it can be leveraged to solve challenges. 
@@ -18,10 +18,13 @@ Gino has worked with international communities like Google Developer Group, Face
 
 Mantra: “A good DevRel/Advocate should also be a good Software Engineer “ </p>
 
+---
 ### 👨‍💻 Blogs:
 - 🤔 Medium https://medium.com/@gino.osahon
 - 🤔 Hackanoon https://hackernoon.com/u/ginowine
 - 🤔 Dev.to https://dev.to/ginowine
+
+---
 
 ### :hammer_and_wrench: Languages, Skills, and Tools:
 <div>
@@ -47,13 +50,14 @@ Mantra: “A good DevRel/Advocate should also be a good Software Engineer “ <
 <img src ="https://img.shields.io/badge/startup advocate-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
 </div>
 
+---
 ### 👨‍💻 Work Experience:
 
 - [Developer Advocate @ IOV Labs](https://iovlabs.org/)
 - [Advisory Board Member @ African Blockchain Center for Developers](https://www.abcdevs.com/)
 - [Ex Hub Manager @ Ken Saro-Wiwa Innovation Hub](https://www.ksinnovationhub.com/)
 
-
+---
 ### 💼 Volunteer Experience:
 
 - [Founder/Developer Advocate, GDG Port Harcourt](https://gdg.community.dev/gdg-port-harcourt/)
