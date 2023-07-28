@@ -1,18 +1,26 @@
-![30 Real Examples Of Blockchain Technology In Practice (1)](https://user-images.githubusercontent.com/6759031/140734194-2f2f30a0-d311-44e5-872d-10657f9c82c7.png)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/osahon-gino-ediagbonya/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/gino_osahon">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
 
 <h1 align="center">Hi there 👋, I'm Gino</h1>
 
-<p align="center"><b>Gino is a seasoned Developer and Startup Advocate/Relations Engineer, with over 8 years of experience in planning, designing, budgeting, implementing, monitoring, and reporting on developer and startup projects/activities. Gino is passionate about technology (Software Engineering/Community) and how it can be leveraged to solve challenges. 
+<p align="center">Gino is a seasoned Developer and Startup Advocate/Relations Engineer, with over 8 years of experience in planning, designing, budgeting, implementing, monitoring, and reporting on developer and startup projects/activities. Gino is passionate about technology (Software Engineering/Community) and how it can be leveraged to solve challenges. 
 
 Gino has worked with international communities like Google Developer Group, Facebook Developer Circle, Oracle Java User Group, KSIH, and IOV Labs to create impactful programs and projects for Developers and Startup founders both in the Web 2.0 and 3.0 Ecosystem. 
 
-Mantra: “A good DevRel/Advocate should also be a good Software Engineer “ </b></p>
+Mantra: “A good DevRel/Advocate should also be a good Software Engineer “ </p>
 
 
 - 🤔 Find out about my job experiences https://www.linkedin.com/in/osahon-gino-ediagbonya-06508078/
 
-
-// #### Technologies and Tools
 
 ### :hammer_and_wrench: Languages, Skills, and Tools:
 <div>
