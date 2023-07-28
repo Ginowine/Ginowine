@@ -2,9 +2,11 @@
 
 <h1 align="center">Hi there 👋, I'm Gino</h1>
 
-<p align="center"><b>Gino is very passionate about youth empowerment, and skills acquisition. He has over 7 years experience designing, planning, implementing, monitoring, reporting activities and projects for developers, designers, and startups. 
+<p align="center"><b>Gino is a seasoned Developer and Startup Advocate/Relations Engineer, with over 8 years of experience in planning, designing, budgeting, implementing, monitoring, and reporting on developer and startup projects/activities. Gino is passionate about technology (Software Engineering/Community) and how it can be leveraged to solve challenges. 
 
-Gino has interesting experience in technical writing, community management, public speaking and software engineering </b></p>
+Gino has worked with international communities like Google Developer Group, Facebook Developer Circle, Oracle Java User Group, KSIH, and IOV Labs to create impactful programs and projects for Developers and Startup founders both in the Web 2.0 and 3.0 Ecosystem. 
+
+Mantra: “A good DevRel/Advocate should also be a good Software Engineer “ </b></p>
 
 
 - 🤔 Find out about my job experiences https://www.linkedin.com/in/osahon-gino-ediagbonya-06508078/
