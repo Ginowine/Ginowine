@@ -9,7 +9,7 @@
     </a>
   </div>
 </div>
----
+
 <h1 align="center">Hi there 👋, I'm Gino</h1>
 
 <p align="center">Gino is a seasoned Developer and Startup Advocate/Relations Engineer, with over 8 years of experience in planning, designing, budgeting, implementing, monitoring, and reporting on developer and startup projects/activities. Gino is passionate about technology (Software Engineering/Community) and how it can be leveraged to solve challenges. 
