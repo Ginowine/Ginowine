@@ -18,7 +18,7 @@ Gino has worked with international communities like Google Developer Group, Face
 
 Mantra: “A good DevRel/Advocate should also be a good Software Engineer “ </p>
 
----
+--
 ### 👨‍💻 Blogs:
 - 🤔 Medium https://medium.com/@gino.osahon
 - 🤔 Hackanoon https://hackernoon.com/u/ginowine
