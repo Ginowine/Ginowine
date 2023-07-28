@@ -18,9 +18,10 @@ Gino has worked with international communities like Google Developer Group, Face
 
 Mantra: “A good DevRel/Advocate should also be a good Software Engineer “ </p>
 
-
-- 🤔 Find out about my job experiences https://www.linkedin.com/in/osahon-gino-ediagbonya-06508078/
-
+### 👨‍💻 Blogs:
+- 🤔 Medium https://medium.com/@gino.osahon
+- 🤔 Hackanoon https://hackernoon.com/u/ginowine
+- 🤔 Dev.to https://dev.to/ginowine
 
 ### :hammer_and_wrench: Languages, Skills, and Tools:
 <div>
@@ -45,10 +46,6 @@ Mantra: “A good DevRel/Advocate should also be a good Software Engineer “ <
 <img src ="https://img.shields.io/badge/developer advocate-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
 <img src ="https://img.shields.io/badge/startup advocate-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
 </div>
-
-<p>
-
-</p>
 
 ### 👨‍💻 Work Experience:
 
