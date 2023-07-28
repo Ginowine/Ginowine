@@ -14,7 +14,7 @@ Mantra: “A good DevRel/Advocate should also be a good Software Engineer “ <
 
 // #### Technologies and Tools
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages, Skills, and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -27,42 +27,33 @@ Mantra: “A good DevRel/Advocate should also be a good Software Engineer “ <
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode"  alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="40" height="40"/>&nbsp;
-</div>
-
-<p>
-<img src ="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
-<img src ="https://img.shields.io/badge/Solidity-3C3C3D?style=for-the-badge&logo=Solidity&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
 <img src ="https://img.shields.io/badge/Smart Contract-3C3C3D?style=for-the-badge&logo=Smart Contract&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src ="https://img.shields.io/badge/android-%2307405e.svg?&style=for-the-badge&logo=android&logoColor=white"/>
-<img src ="https://img.shields.io/badge/springboot-%2307405e.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src ="https://img.shields.io/badge/developer advocate-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
 <img src ="https://img.shields.io/badge/startup advocate-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
+</div>
+
+<p>
+
 </p>
 
-
-#### Currently working at:
+### 👨‍💻 Work Experience:
 
 - [Developer Advocate @ IOV Labs](https://iovlabs.org/)
 - [Advisory Board Member @ African Blockchain Center for Developers](https://www.abcdevs.com/)
 - [Ex Hub Manager @ Ken Saro-Wiwa Innovation Hub](https://www.ksinnovationhub.com/)
 
 
-#### Volunteer Experience
+### 💼 Volunteer Experience:
 
 - [Founder/Developer Advocate, GDG Port Harcourt](https://gdg.community.dev/gdg-port-harcourt/)
 
 - [Developer Advocate, GDG Cloud Port Harcourt](https://gdg.community.dev/gdg-cloud-port-harcourt/)
-
-- [Co-organizer, All University Tech Community](https://twitter.com/AutcNigeria)
 
 - [Co-lead, Oracle Java User Group Port Harcourt](https://www.facebook.com/Java-User-Group-Port-Harcourt-1436358619990281)
 
