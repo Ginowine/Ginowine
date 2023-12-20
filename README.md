@@ -53,7 +53,7 @@ Mantra: “A good DevRel/Advocate should also be a good Software Engineer “ <
 ---
 ### 👨‍💻 Work Experience:
 
-- [Co-founder/CTO/Software Engineer @ LinkiSwap](https://linkiswap.com/)
+- [Co-Founder/CTO/Software Engineer @ LinkiSwap](https://linkiswap.com/)
 - [Co-Founder/CTO/Software Engineer @ Farm Trust Finance]()
 - [Developer Advocate @ IOV Labs](https://iovlabs.org/)
 - [Advisory Board Member @ African Blockchain Center for Developers](https://www.abcdevs.com/)
