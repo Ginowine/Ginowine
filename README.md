@@ -55,18 +55,18 @@ Mantra: “A good DevRel/Advocate should also be a good Software Engineer “ <
 
 - [Co-Founder/CTO/Software Engineer @ LinkiSwap](https://linkiswap.com/)
 - [Co-Founder/CTO/Software Engineer @ Farm Trust Finance]()
-- [Developer Advocate @ IOV Labs](https://iovlabs.org/)
-- [Advisory Board Member @ African Blockchain Center for Developers](https://www.abcdevs.com/)
+- [Ex Developer Advocate @ IOV Labs](https://iovlabs.org/)
+- [Ex Dev Advocate and Advisory Board Member @ African Blockchain Center for Developers](https://www.abcdevs.com/)
 - [Ex Hub Manager @ Ken Saro-Wiwa Innovation Hub](https://www.ksinnovationhub.com/)
 
 ---
 ### 💼 Volunteer Experience:
 
-- [Founder and Lead Community Manager, GDG Port Harcourt](https://gdg.community.dev/gdg-port-harcourt/)
+- [Ex Founder and Lead Community Manager, GDG Port Harcourt](https://gdg.community.dev/gdg-port-harcourt/)
 
 - [Founder and Lead Community Manager, GDG Cloud Port Harcourt](https://gdg.community.dev/gdg-cloud-port-harcourt/)
 
-- [Co-lead, Oracle Java User Group Port Harcourt](https://www.facebook.com/Java-User-Group-Port-Harcourt-1436358619990281)
+- [Ex Co-lead, Oracle Java User Group Port Harcourt](https://www.facebook.com/Java-User-Group-Port-Harcourt-1436358619990281)
 
 
 <!--
