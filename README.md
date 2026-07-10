@@ -61,11 +61,11 @@ Mantra: “A good DevRel/Advocate should also be a good Software Engineer “ <
 ---
 ### 💼 Volunteer Experience:
 
-- [Ex Founder and Lead Community Manager, GDG Port Harcourt](https://gdg.community.dev/gdg-port-harcourt/)
+- [Founder and now Mentor, GDG Port Harcourt](https://gdg.community.dev/gdg-port-harcourt/)
 
-- [Founder and Lead Community Manager, GDG Cloud Port Harcourt](https://gdg.community.dev/gdg-cloud-port-harcourt/)
+- [Founder and now Mentor, GDG Cloud Port Harcourt](https://gdg.community.dev/gdg-cloud-port-harcourt/)
 
-- [Ex Co-lead, Oracle Java User Group Port Harcourt](https://www.facebook.com/Java-User-Group-Port-Harcourt-1436358619990281)
+- [Founder and now Mentor, Oracle Java User Group Port Harcourt](https://www.facebook.com/Java-User-Group-Port-Harcourt-1436358619990281)
 
 
 <!--
