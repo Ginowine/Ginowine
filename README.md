@@ -11,8 +11,7 @@
 </div>
 
 <h1 align="center">Hi there 👋, I'm Gino</h1>
-
-<p align="center">Software Engineer, Developer Relations Leader, and Founder building products that make technology more accessible.
+<p align="left"> Gino is a Software Engineer, Developer Relations Leader, and Founder building products that make technology more accessible.
 
 I enjoy designing scalable systems, developer platforms, and open-source infrastructure that solve real-world problems. Over the past decade, I've worked across Web2 and Web3, helping developers build, learn, and adopt emerging technologies while contributing to developer experience, technical documentation, and community growth.
 
