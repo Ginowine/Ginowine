@@ -12,7 +12,15 @@
 
 <h1 align="center">Hi there 👋, I'm Gino</h1>
 
-<p align="center">Gino is a seasoned Developer and Startup Advocate/Relations Engineer, with over 8 years of experience in planning, designing, budgeting, implementing, monitoring, and reporting on developer and startup projects/activities. Gino is passionate about technology (Software Engineering/Community) and how it can be leveraged to solve challenges. 
+<p align="center">Software Engineer, Developer Relations Leader, and Founder building products that make technology more accessible.
+
+I enjoy designing scalable systems, developer platforms, and open-source infrastructure that solve real-world problems. Over the past decade, I've worked across Web2 and Web3, helping developers build, learn, and adopt emerging technologies while contributing to developer experience, technical documentation, and community growth.
+
+I'm currently building CivicOS, an open civic operating system for governments, universities, NGOs, and communities, and LinkiSwap, an AI-powered cross-chain execution platform that simplifies blockchain interactions.
+
+I believe great products are built at the intersection of engineering, community, and thoughtful developer experience.
+
+Mantra: Great Developer Relations Engineers build great software. 
 
 Mantra: “A good DevRel/Advocate should also be a good Software Engineer “ </p>
 
