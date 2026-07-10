@@ -19,9 +19,7 @@ I'm currently building CivicOS, an open civic operating system for governments, 
 
 I believe great products are built at the intersection of engineering, community, and thoughtful developer experience.
 
-Mantra: Great Developer Relations Engineers build great software. 
-
-Mantra: “A good DevRel/Advocate should also be a good Software Engineer “ </p>
+Mantra: “A good DevRel Engineer/Advocate should also be a good Software Engineer “ </p>
 
 ---
 ### 👨‍💻 Blogs:
