@@ -11,15 +11,27 @@
 </div>
 
 <h1 align="center">Hi there 👋, I'm Gino</h1>
-<p align="left"> Gino is a Software Engineer, Developer Relations Leader, and Founder building products that make technology more accessible.
+<p align="center">
 
-I enjoy designing scalable systems, developer platforms, and open-source infrastructure that solve real-world problems. Over the past decade, I've worked across Web2 and Web3, helping developers build, learn, and adopt emerging technologies while contributing to developer experience, technical documentation, and community growth.
+I'm a Software Engineer, Developer Relations Leader, and Founder building products that make technology more accessible and useful.
 
-I'm currently building CivicOS, an open civic operating system for governments, universities, NGOs, and communities, and LinkiSwap, an AI-powered cross-chain execution platform that simplifies blockchain interactions.
+Over the past decade, I've worked across Web2 and Web3, building software, developer platforms, technical documentation, open-source infrastructure, and communities that help developers learn, build, and adopt emerging technologies.
 
-I believe great products are built at the intersection of engineering, community, and thoughtful developer experience.
+I enjoy designing scalable systems and turning complex technologies into practical tools and experiences. My work sits at the intersection of **engineering, developer experience, community, and product development**.
 
-Mantra: “A good DevRel Engineer/Advocate should also be a good Software Engineer “ </p>
+I'm currently building products through **Recoil Labs**, including:
+
+* **RecoilPay** — an intent-based execution platform designed to simplify how users interact with digital assets, liquidity, payment infrastructure, and multichain ecosystems.
+* **CivicOS** — an open civic operating system designed to help governments, universities, NGOs, and communities improve participation, transparency, accountability, and access to civic services.
+
+My background spans software engineering, developer relations, technical documentation, blockchain infrastructure, smart contracts, developer education, and community building.
+
+I believe great technology is not just about what we build. It's about how easily people can understand it, use it, and build on top of it.
+
+**Mantra:**
+
+> *"A good DevRel Engineer or Developer Advocate should also be a good Software Engineer."*
+ </p>
 
 ---
 ### 👨‍💻 Blogs:
@@ -56,9 +68,9 @@ Mantra: “A good DevRel Engineer/Advocate should also be a good Software Engine
 ---
 ### 👨‍💻 Work Experience:
 
+- [Founder/Software Engineer @ Recoil Labs](https:///)
 - [Developer Advocate @ IOTA Foundation](https://www.iota.org/)
-- [Founder/CTO/Software Engineer @ LinkiSwap](https://linkiswap.com/)
-- [Founder/CTO/Software Engineer @ CivicOS](https://civicos.ng/)
+- [Ex Founder/CTO/Software Engineer @ LinkiSwap](https://linkiswap.com/)
 - [Ex Developer Advocate @ IOV Labs](https://iovlabs.org/)
 - [Ex Dev Advocate and Advisory Board Member @ African Blockchain Center for Developers](https://www.abcdevs.com/)
 - [Ex Innovation Hub Manager @ Ken Saro-Wiwa Innovation Hub](https://www.ksinnovationhub.com/)
@@ -69,9 +81,6 @@ Mantra: “A good DevRel Engineer/Advocate should also be a good Software Engine
 - [Founder and now Mentor, GDG Port Harcourt](https://gdg.community.dev/gdg-port-harcourt/)
 
 - [Founder and now Mentor, GDG Cloud Port Harcourt](https://gdg.community.dev/gdg-cloud-port-harcourt/)
-
-- [Founder and now Mentor, Oracle Java User Group Port Harcourt](https://www.facebook.com/Java-User-Group-Port-Harcourt-1436358619990281)
-
 
 <!--
 **Ginowine/Ginowine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
