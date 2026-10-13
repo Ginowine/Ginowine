@@ -67,8 +67,8 @@ I believe great technology is not just about what we build. It's about how easil
 ---
 ### 👨‍💻 Work Experience:
 
-- [Founder/Software Engineer @ Recoil Labs](https:///)
-- [Developer Advocate @ IOTA Foundation](https://www.iota.org/)
+- [Founder/Technical Director @ Recoil Labs](https://recoillabs.org/)
+- [Ex Developer Advocate @ IOTA Foundation](https://www.iota.org/)
 - [Ex Founder/CTO/Software Engineer @ LinkiSwap](https://linkiswap.com/)
 - [Ex Developer Advocate @ IOV Labs](https://iovlabs.org/)
 - [Ex Dev Advocate and Advisory Board Member @ African Blockchain Center for Developers](https://www.abcdevs.com/)
