@@ -37,7 +37,6 @@ I believe great technology is not just about what we build. It's about how easil
 ### 👨‍💻 Blogs:
 - 🤔 Medium https://medium.com/@gino.osahon
 - 🤔 Hackanoon https://hackernoon.com/u/ginowine
-- 🤔 Dev.to https://dev.to/ginowine
 
 ---
 
